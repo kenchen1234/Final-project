@@ -1,8 +1,24 @@
 What will be the title of the project?
+Stock market forecasting
+
 Summarize your project.
-Detail your project. What will you software do? What features will it have? How will it be executed?
-List names of classmates for the final project, list emails, and the names of their assigned TAs below. 
-Define a GOOD outcome for your final project. What will you accomplist no matter what?
-Define a BETTER outcome for your final project. What do you hope to accomplish before the finall projects deadline?
-Define a BEST outcome for your final project. What do you hope to accomplish before the finall projects deadline?
-What new skills will you need to acquire? What topis will you need to research? And who will do it?
+Build and run the model based on the historical data then try to predict the future stock price.
+
+Detail your project. What will your software do? What features will it have? How will it be executed?
+Build and run the model based on the historical data then try to predict the future stock price.
+
+List names of classmates for the final project, list emails, and the names of their assigned TAs below.
+Hsien-Chun Ken Chen, tup35912@temple.edu, Parsa Esmaeilkhani
+Tasnim Hossain, tur23991@temple.edu, Xinwen(Ellen) Zhang
+
+Define a GOOD outcome for your final project. What will you accomplish no matter what?
+Build the model based on the historical data.
+
+Define a BETTER outcome for your final project. What do you hope to accomplish before the final projects deadline?
+Optimizing the model and making it with almost zero error.
+
+Define a BEST outcome for your final project. What do you hope to accomplish before the final projects deadline?
+Able to use the model to predict the future stock price.
+
+What new skills will you need to acquire? What topics will you need to research? And who will do what?
+Monte Carlo is the topic that we need to do more research on it. And we're doing everything together.
