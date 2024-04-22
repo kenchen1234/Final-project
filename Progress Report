@@ -1,15 +1,15 @@
 # Status Report
 
 #### Your name
-
+Tasnim Hossain, Hsien-Chun Ken Chen 
 TODO
 
 #### Your section leader's name
-
+Hsien-Chun Ken Chen
 TODO
 
 #### Project title
-
+Future Stock Price Prediction and Web App
 TODO
 
 ***
@@ -17,11 +17,16 @@ TODO
 Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
 
 #### What have you done for your project so far?
-
+- We have picked our topic and reserched about it. 
+- We calcuted moving average and split the date into training and testing set. 
+- We build the neural network model by using LSTM. 
+- Trying to optomize the model.
+- Build a web app to make the visual easy to understand. 
 TODO
 
 #### What have you not done for your project yet?
-
+We have not done the part yet where it actually predicts the future price of the stock. 
 TODO
 
 #### What problems, if any, have you encountered?
+We have encountered the mean squared error, it's about 7.4.
