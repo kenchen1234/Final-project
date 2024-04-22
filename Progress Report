@@ -18,10 +18,10 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 - We have picked our topic and reserched about it. 
-- We calcuted moving average and split the date into training and testing set. 
+- We calculated moving average and split the date into training and testing set. 
 - We build the neural network model by using LSTM. 
-- Trying to optomize the model.
-- Build a web app to make the visual easy to understand. 
+- Trying to optimize the model.
+- Build a web app to make the visual easy to read. 
 TODO
 
 #### What have you not done for your project yet?
@@ -29,4 +29,4 @@ We have not done the part yet where it actually predicts the future price of the
 TODO
 
 #### What problems, if any, have you encountered?
-We have encountered the mean squared error, it's about 7.4.
+We have encountered that the mean squared error is about 7.4(Low accuracy).
